@@ -1,0 +1,13 @@
+{
+    "equations": [
+      {
+        "type": "arithmetic",
+        "equation": "ATTR + 50 * (ATTR / 10)"
+      },
+      {
+        "type": "regex",
+        "equation": "Regex(ATTR, '^dog')"
+      }
+    ]
+  }
+  
